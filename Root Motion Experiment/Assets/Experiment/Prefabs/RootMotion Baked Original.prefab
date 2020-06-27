@@ -20,7 +20,7 @@ PrefabInstance:
     - target: {fileID: 1457541761197081449, guid: 0b2581d605c30a74597943d4ff38fec5,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1457541761197081449, guid: 0b2581d605c30a74597943d4ff38fec5,
         type: 3}
@@ -75,7 +75,7 @@ PrefabInstance:
     - target: {fileID: 2265849574923131347, guid: 0b2581d605c30a74597943d4ff38fec5,
         type: 3}
       propertyPath: m_Name
-      value: RootMotion Baked
+      value: RootMotion Baked Original
       objectReference: {fileID: 0}
     - target: {fileID: 3576681674297002730, guid: 0b2581d605c30a74597943d4ff38fec5,
         type: 3}

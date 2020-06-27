@@ -28,7 +28,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Non-Baked Original
+  m_Name: Strafe Non-Baked Original
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
@@ -64,7 +64,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: bca6cc8676bc35a409238e6e88195eb2,
+  m_Motion: {fileID: -203655887218126122, guid: d935a96fa022c914290f63a5d44de557,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
