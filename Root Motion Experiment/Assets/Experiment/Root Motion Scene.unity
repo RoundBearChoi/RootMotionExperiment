@@ -2892,6 +2892,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RootMotion Baked Original
       objectReference: {fileID: 0}
+    - target: {fileID: 8605030176189152104, guid: bc34514d682c18049853134789653709,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8944401704950243794, guid: bc34514d682c18049853134789653709,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3327,6 +3332,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RootMotion Non-Baked Original
+      objectReference: {fileID: 0}
+    - target: {fileID: 6348177613941149390, guid: ff94e5a7aa078b5449aa1751259aa5b6,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff94e5a7aa078b5449aa1751259aa5b6, type: 3}
@@ -6552,6 +6562,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RootMotion Baked Body
       objectReference: {fileID: 0}
+    - target: {fileID: 7086255745882452875, guid: f6d72642c49bea24381c09e09eec82e9,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7574105295041112369, guid: f6d72642c49bea24381c09e09eec82e9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6676,6 +6691,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RootMotion Non-Baked Body
       objectReference: {fileID: 0}
+    - target: {fileID: 5448145520409066468, guid: 96546f9085e2dff43ba321f3389567c1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96546f9085e2dff43ba321f3389567c1, type: 3}
 --- !u!1001 &3542905856576608354
@@ -6764,6 +6784,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Non-RootMotion Baked Body
       objectReference: {fileID: 0}
+    - target: {fileID: 2826377928151427706, guid: 95a11d5d59e6f0e4093e600ac002e452,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3202797573950156992, guid: 95a11d5d59e6f0e4093e600ac002e452,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6832,6 +6857,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Non-RootMotion Non-Baked Body
+      objectReference: {fileID: 0}
+    - target: {fileID: 3905210637170524056, guid: 4939e13501fdeb840baa375c6565d55f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4429792499259696418, guid: 4939e13501fdeb840baa375c6565d55f,
         type: 3}
@@ -7050,6 +7080,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Non-RootMotion Non-Baked Original
       objectReference: {fileID: 0}
+    - target: {fileID: 2792896901288074618, guid: 30b078d40696c9c4097f8b215bfa991b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3281308025945638848, guid: 30b078d40696c9c4097f8b215bfa991b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7118,6 +7153,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Non-RootMotion Baked Original
+      objectReference: {fileID: 0}
+    - target: {fileID: 3761254605727787919, guid: ee3aeaf6501ca884ca568a62a25d0c71,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4573820548815302965, guid: ee3aeaf6501ca884ca568a62a25d0c71,
         type: 3}
